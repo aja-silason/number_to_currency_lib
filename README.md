@@ -1,6 +1,6 @@
 ## Convert Number To Angolan Currency: AOA|Kz
 
-# About:
+###### About:
 
 This lib was developed to convert numerical values ​​to data in currencies, specifically for the Angolan currency the KZ, it was developed to facilitate the presentation of data involving the Angolan currency, and facilitates its conversion.
 
