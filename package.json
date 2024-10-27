@@ -1,0 +1,17 @@
+{
+  "name": "@silason/convert-kwanza-currency",
+  "version": "1.0.0",
+  "description": "A lib that convert number to a value or currency",
+  "private": false,
+  "main": "./src/index.js",
+  "scripts": {
+    "build": "tsc src/index.ts src/test/index.ts",
+    "test": "node ./src/test/index.js"
+  },
+  "keywords": [],
+  "author": "Anania Jaime Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
